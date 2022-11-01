@@ -11,10 +11,8 @@
 
 - Linked in : **https://www.linkedin.com/in/0xmohamed25/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Problem Solving Profiles:</h3>
 <p align="left">
-<a href="https://dev.to/mohamedsaid25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamedsaid25" height="30" width="40" /></a>
-<a href="https://twitter.com/0x_mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_mohamed" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mu7md_said" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mu7md_said" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sorrymatewrongpath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sorrymatewrongpath" height="30" width="40" /></a>
 </p>
