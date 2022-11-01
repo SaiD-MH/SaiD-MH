@@ -15,7 +15,7 @@
 <a href="https://www.hackerrank.com/uzumaki_narutooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uzumaki_narutooo" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sorrymatewrongpath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sorrymatewrongpath" height="30" width="40" /></a>
 <a href="https://leetcode.com/muhamdsaid253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohameds253" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mohamed saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mohamed saeed" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@muhamdsaid253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mohamed saeed" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mu7md_said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mu7md_said" height="30" width="40" /></a>
 </p>
 
