@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saeed</h1>
 <h3 align="center">Software Engineer inter @bld.ai | passionate Software Engineer | competitive programmer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mohamedsaid25&label=Profile%20views&color=0e75b6&style=flat](https://scontent.fcai19-6.fna.fbcdn.net/v/t1.6435-9/181454330_2806913002894244_3275155532746458643_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=VNVuIp0daT8AX_ICBYF&_nc_ht=scontent.fcai19-6.fna&oh=00_AfBRAHY1A85FGo9v3WGMTOQy5w483qY1vEYtgdmYPqWcRg&oe=63862DEC)" alt="mohamedsaid25" /> </p>
 
 <p align="left"> <a href="https://twitter.com/0x_mohamed" target="blank"><img src="https://img.shields.io/twitter/follow/0x_mohamed?logo=twitter&style=for-the-badge" alt="0x_mohamed" /></a> </p>
 
