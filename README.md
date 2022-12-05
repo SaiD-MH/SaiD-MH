@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer inter @bld.ai | passionate Software Engineer | competitive programmer</h3>
 
 
-<p align="left"> <a href="https://twitter.com/0x_mohamed" target="blank"><img src="https://img.shields.io/twitter/follow/0x_mohamed?logo=twitter&style=for-the-badge" alt="0x_mohamed" /></a> </p>
+
 
 - 📫 Mail : **muhamdsaid253@gmail.com**
 
