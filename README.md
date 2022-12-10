@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saeed</h1>
-<h3 align="center">Software Engineer intern @bld.ai | passionate Software Engineer | competitive programmer</h3>
+<h3 align="center">Software Engineer intern @bld.ai | competitive programmer</h3>
 
 
 
