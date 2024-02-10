@@ -77,7 +77,7 @@
         ###
 
 <div align="left">
-<img height="175" src="https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIcons8_flat_linux.svg&psig=AOvVaw1ELrmE8E8DiF0Cehv38WkU&ust=1707639164302000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCogeCpoIQDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIcons8_flat_linux.svg&psig=AOvVaw1ELrmE8E8DiF0Cehv38WkU&ust=1707639164302000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCogeCpoIQDFQAAAAAdAAAAABAE"  />
+<img height="175" src="https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIcons8_flat_linux.svg&psig=AOvVaw1ELrmE8E8DiF0Cehv38WkU&ust=1707639164302000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCogeCpoIQDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIcons8_flat_linux.svg&psig=AOvVaw1ELrmE8E8DiF0Cehv38WkU&ust=1707639164302000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCogeCpoIQDFQAAAAAdAAAAABAE](https://freepngimg.com/thumb/computer/69446-and-kernel-open-source-unix-like-operating-systems-linux.png)https://freepngimg.com/thumb/computer/69446-and-kernel-open-source-unix-like-operating-systems-linux.png"  />
 </div>
 
         ###
